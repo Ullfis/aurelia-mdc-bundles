@@ -10,3 +10,11 @@ gulp.task('release', ['bundle'], async () => {
     await git();
   }
 });
+
+gulp.task('prepare', async () => {
+  const isBumped = await bump();
+  await copy();
+  if (isBumped) {
+    await git();
+  }
+});
