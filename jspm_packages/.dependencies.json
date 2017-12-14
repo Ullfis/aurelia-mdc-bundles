@@ -94,9 +94,6 @@
   "npm:aurelia-logging-console@1.0.0": {
     "aurelia-logging": "npm:aurelia-logging@^1.0.0"
   },
-  "npm:aurelia-mdc-bridge@0.14.2": {
-    "material-components-web": "npm:material-components-web@^0.27.0"
-  },
   "npm:aurelia-path@1.1.1": {},
   "npm:aurelia-route-recognizer@1.1.1": {
     "aurelia-path": "npm:aurelia-path@^1.0.0"
@@ -488,5 +485,8 @@
   "npm:isarray@0.0.1": {},
   "npm:string_decoder@0.10.31": {
     "buffer": "github:jspm/nodelibs-buffer@^0.1.0"
+  },
+  "npm:aurelia-mdc-bridge@0.14.3": {
+    "material-components-web": "npm:material-components-web@^0.27.0"
   }
 }

@@ -10,13 +10,13 @@ System.config({
     "optional": []
   },
   paths: {
-    "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/jspm_packages/github/*",
-    "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/jspm_packages/npm/*",
-    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/bundles/bundle.js"
+    "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.3/jspm_packages/github/*",
+    "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.3/jspm_packages/npm/*",
+    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.3/bundles/bundle.js"
   },
   meta: {
-    "aurelia-mdc-bridge/*": {
-      "format": "register"
+    "npm:aurelia-mdc-bridge/*": {
+      "format": "amd"
     }
   },
   map: {
@@ -50,7 +50,7 @@ System.config({
     "aurelia-loader-default": "npm:aurelia-loader-default@1.0.3",
     "aurelia-logging": "npm:aurelia-logging@1.3.1",
     "aurelia-logging-console": "npm:aurelia-logging-console@1.0.0",
-    "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@0.14.2",
+    "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@0.14.3",
     "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
     "aurelia-pal": "npm:aurelia-pal@1.4.0",
     "aurelia-pal-browser": "npm:aurelia-pal-browser@1.3.0",
@@ -339,7 +339,7 @@ System.config({
     "npm:aurelia-logging-console@1.0.0": {
       "aurelia-logging": "npm:aurelia-logging@1.3.1"
     },
-    "npm:aurelia-mdc-bridge@0.14.2": {
+    "npm:aurelia-mdc-bridge@0.14.3": {
       "material-components-web": "npm:material-components-web@0.27.0"
     },
     "npm:aurelia-metadata@1.0.3": {
