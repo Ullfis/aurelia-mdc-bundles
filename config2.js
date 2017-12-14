@@ -10,9 +10,9 @@ System.config({
     "optional": []
   },
   paths: {
-    "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.1/jspm_packages/github/*",
-    "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.1/jspm_packages/npm/*",
-    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.1/bundles/bundle.js"
+    "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/jspm_packages/github/*",
+    "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/jspm_packages/npm/*",
+    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/bundles/bundle.js"
   },
   map: {
     "@material/animation": "npm:@material/animation@0.25.0",

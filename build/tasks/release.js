@@ -4,8 +4,9 @@ const bump = require('../bump');
 const git = require('../git');
 
 gulp.task('release', ['bundle'], async () => {
+  const isBumped = await bump();
   await copy();
-  if (await bump()) {
+  if (isBumped) {
     await git();
   }
 });
