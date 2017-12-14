@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/select@0.27.0/dist/mdc.select");

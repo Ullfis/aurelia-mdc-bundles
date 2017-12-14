@@ -1,0 +1,2 @@
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/animation@0.25.0/index.js:143:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/animation@0.25.0/index.js:143:8: Semi-colon expected

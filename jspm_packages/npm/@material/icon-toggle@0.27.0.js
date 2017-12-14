@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/icon-toggle@0.27.0/dist/mdc.iconToggle");

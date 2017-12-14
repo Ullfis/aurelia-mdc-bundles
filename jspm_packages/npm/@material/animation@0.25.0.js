@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/animation@0.25.0/dist/mdc.animation");

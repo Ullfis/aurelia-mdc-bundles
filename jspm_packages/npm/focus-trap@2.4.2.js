@@ -1,0 +1,1 @@
+module.exports = require("npm:focus-trap@2.4.2/index.js");

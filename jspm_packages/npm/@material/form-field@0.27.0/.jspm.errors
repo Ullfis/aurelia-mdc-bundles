@@ -1,0 +1,37 @@
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/adapter.js:53:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/adapter.js:53:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/adapter.js:53:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/adapter.js:53:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/constants.js:28:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/constants.js:28:8: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:18:22: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:18:27: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:19:28: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:19:33: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:20:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:20:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:20:35: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:69:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:69:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:69:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/foundation.js:69:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:18:21: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:18:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:19:31: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:19:36: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:21:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:21:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:21:35: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:77:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/form-field@0.27.0/index.js:77:8: Semi-colon expected
