@@ -486,7 +486,7 @@
   "npm:string_decoder@0.10.31": {
     "buffer": "github:jspm/nodelibs-buffer@^0.1.0"
   },
-  "npm:aurelia-mdc-bridge@0.14.4": {
+  "npm:aurelia-mdc-bridge@0.14.5": {
     "material-components-web": "npm:material-components-web@^0.27.0"
   }
 }
