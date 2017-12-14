@@ -14,6 +14,11 @@ System.config({
     "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/jspm_packages/npm/*",
     "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.2/bundles/bundle.js"
   },
+  meta: {
+    "aurelia-mdc-bridge/*": {
+      "format": "register"
+    }
+  },
   map: {
     "@material/animation": "npm:@material/animation@0.25.0",
     "@material/base": "npm:@material/base@0.24.0",
@@ -47,7 +52,10 @@ System.config({
     "aurelia-logging-console": "npm:aurelia-logging-console@1.0.0",
     "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@0.14.2",
     "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
+    "aurelia-pal": "npm:aurelia-pal@1.4.0",
+    "aurelia-pal-browser": "npm:aurelia-pal-browser@1.3.0",
     "aurelia-path": "npm:aurelia-path@1.1.1",
+    "aurelia-polyfills": "npm:aurelia-polyfills@1.2.2",
     "aurelia-route-recognizer": "npm:aurelia-route-recognizer@1.1.1",
     "aurelia-router": "npm:aurelia-router@1.4.0",
     "aurelia-task-queue": "npm:aurelia-task-queue@1.2.1",
