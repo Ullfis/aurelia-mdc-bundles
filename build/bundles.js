@@ -49,12 +49,14 @@ var bundle = [
   "aurelia-templating",
   "aurelia-templating-binding",
   "aurelia-templating-resources",
-  "aurelia-templating-router",
-  "[aurelia-mdc-bridge/**/*.js]",
-  "aurelia-mdc-bridge/**/*.css!text",
-  "aurelia-mdc-bridge/**/*.html!text",
-  "[aurelia-mdc-bridge]"
+  "aurelia-templating-router"
 ];
+
+// ,
+// "[aurelia-mdc-bridge/**/*.js]",
+// "aurelia-mdc-bridge/**/*.css!text",
+// "aurelia-mdc-bridge/**/*.html!text",
+// "[aurelia-mdc-bridge]"
 
 module.exports = {
   "bundles": {
