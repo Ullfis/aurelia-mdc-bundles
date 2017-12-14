@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 function getAureliaMdcVersion() {
-  const package = require('../package.json');
+  const package = getPackage();
   const version = package.jspm.dependencies['aurelia-mdc-bridge']
     .replace(
       'npm:aurelia-mdc-bridge@^',
@@ -11,8 +11,11 @@ function getAureliaMdcVersion() {
 }
 
 function getPackageVersion() {
-  const package = require('../package.json');
-  return package.version;
+  return getPackage().version;
+}
+
+function getPackage() {
+  return JSON.parse(fs.readFileSync('./package.json', 'utf-8'));
 }
 
 module.exports = {
