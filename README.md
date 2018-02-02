@@ -10,6 +10,6 @@
 
   ```html
   ...
-  <script src="https://rawgit.com/ullfis/aurelia-mdc-bundles/0.14.0/config2.js"></script>
+  <script src="https://rawgit.com/ullfis/aurelia-mdc-bundles/0.16.0/config2.js"></script>
   ...
   ```

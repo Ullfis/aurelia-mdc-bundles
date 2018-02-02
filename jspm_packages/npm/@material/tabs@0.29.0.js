@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/tabs@0.29.0/dist/mdc.tabs");

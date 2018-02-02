@@ -1,0 +1,4 @@
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/auto-init@0.29.0/index.js:39:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/auto-init@0.29.0/index.js:39:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/auto-init@0.29.0/index.js:39:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/auto-init@0.29.0/index.js:39:16: Semi-colon expected

@@ -1,1 +1,0 @@
-module.exports = require("npm:@material/base@0.24.0/dist/mdc.base");

@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/drawer@0.29.0/dist/mdc.drawer");

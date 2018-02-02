@@ -1,0 +1,1 @@
+module.exports = require("npm:material-components-web@0.29.0/index.js");

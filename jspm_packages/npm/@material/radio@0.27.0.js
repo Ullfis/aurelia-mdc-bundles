@@ -1,1 +1,0 @@
-module.exports = require("npm:@material/radio@0.27.0/dist/mdc.radio");

@@ -10,9 +10,9 @@ System.config({
     "optional": []
   },
   paths: {
-    "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.5/jspm_packages/github/*",
-    "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.5/jspm_packages/npm/*",
-    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.14.5/bundles/bundle.js"
+    "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.16.0/jspm_packages/github/*",
+    "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.16.0/jspm_packages/npm/*",
+    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.16.0/bundles/bundle.js"
   },
   meta: {
     "npm:aurelia-mdc-bridge/*": {
@@ -21,24 +21,24 @@ System.config({
   },
   map: {
     "@material/animation": "npm:@material/animation@0.25.0",
-    "@material/base": "npm:@material/base@0.24.0",
-    "@material/checkbox": "npm:@material/checkbox@0.27.0",
-    "@material/dialog": "npm:@material/dialog@0.27.0",
-    "@material/drawer": "npm:@material/drawer@0.27.0",
-    "@material/form-field": "npm:@material/form-field@0.27.0",
-    "@material/grid-list": "npm:@material/grid-list@0.27.0",
-    "@material/icon-toggle": "npm:@material/icon-toggle@0.27.0",
-    "@material/linear-progress": "npm:@material/linear-progress@0.27.0",
-    "@material/menu": "npm:@material/menu@0.27.0",
-    "@material/radio": "npm:@material/radio@0.27.0",
-    "@material/ripple": "npm:@material/ripple@0.27.0",
-    "@material/select": "npm:@material/select@0.27.0",
-    "@material/selection-control": "npm:@material/selection-control@0.27.0",
-    "@material/slider": "npm:@material/slider@0.27.0",
-    "@material/snackbar": "npm:@material/snackbar@0.27.0",
-    "@material/tabs": "npm:@material/tabs@0.27.0",
-    "@material/textfield": "npm:@material/textfield@0.27.0",
-    "@material/toolbar": "npm:@material/toolbar@0.27.0",
+    "@material/base": "npm:@material/base@0.29.0",
+    "@material/checkbox": "npm:@material/checkbox@0.29.0",
+    "@material/dialog": "npm:@material/dialog@0.29.0",
+    "@material/drawer": "npm:@material/drawer@0.29.0",
+    "@material/form-field": "npm:@material/form-field@0.29.0",
+    "@material/grid-list": "npm:@material/grid-list@0.29.0",
+    "@material/icon-toggle": "npm:@material/icon-toggle@0.29.0",
+    "@material/linear-progress": "npm:@material/linear-progress@0.29.0",
+    "@material/menu": "npm:@material/menu@0.29.0",
+    "@material/radio": "npm:@material/radio@0.29.0",
+    "@material/ripple": "npm:@material/ripple@0.29.0",
+    "@material/select": "npm:@material/select@0.29.0",
+    "@material/selection-control": "npm:@material/selection-control@0.29.0",
+    "@material/slider": "npm:@material/slider@0.29.0",
+    "@material/snackbar": "npm:@material/snackbar@0.29.0",
+    "@material/tabs": "npm:@material/tabs@0.29.0",
+    "@material/textfield": "npm:@material/textfield@0.29.0",
+    "@material/toolbar": "npm:@material/toolbar@0.29.0",
     "aurelia-binding": "npm:aurelia-binding@1.6.0",
     "aurelia-bootstrapper": "npm:aurelia-bootstrapper@1.0.1",
     "aurelia-dependency-injection": "npm:aurelia-dependency-injection@1.3.2",
@@ -48,27 +48,27 @@ System.config({
     "aurelia-history-browser": "npm:aurelia-history-browser@1.1.0",
     "aurelia-loader": "npm:aurelia-loader@1.0.0",
     "aurelia-loader-default": "npm:aurelia-loader-default@1.0.3",
-    "aurelia-logging": "npm:aurelia-logging@1.3.1",
+    "aurelia-logging": "npm:aurelia-logging@1.4.0",
     "aurelia-logging-console": "npm:aurelia-logging-console@1.0.0",
-    "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@0.14.5",
+    "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@0.16.0",
     "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-    "aurelia-pal": "npm:aurelia-pal@1.4.0",
-    "aurelia-pal-browser": "npm:aurelia-pal-browser@1.3.0",
+    "aurelia-pal": "npm:aurelia-pal@1.5.0",
+    "aurelia-pal-browser": "npm:aurelia-pal-browser@1.4.0",
     "aurelia-path": "npm:aurelia-path@1.1.1",
-    "aurelia-polyfills": "npm:aurelia-polyfills@1.2.2",
+    "aurelia-polyfills": "npm:aurelia-polyfills@1.3.0",
     "aurelia-route-recognizer": "npm:aurelia-route-recognizer@1.1.1",
-    "aurelia-router": "npm:aurelia-router@1.4.0",
+    "aurelia-router": "npm:aurelia-router@1.5.0",
     "aurelia-task-queue": "npm:aurelia-task-queue@1.2.1",
-    "aurelia-templating": "npm:aurelia-templating@1.6.0",
+    "aurelia-templating": "npm:aurelia-templating@1.7.0",
     "aurelia-templating-binding": "npm:aurelia-templating-binding@1.4.0",
     "aurelia-templating-resources": "npm:aurelia-templating-resources@1.5.4",
-    "aurelia-templating-router": "npm:aurelia-templating-router@1.2.0",
+    "aurelia-templating-router": "npm:aurelia-templating-router@1.3.1",
     "babel": "npm:babel-core@5.8.38",
     "babel-runtime": "npm:babel-runtime@5.8.38",
     "clean-css": "npm:clean-css@3.4.28",
     "core-js": "npm:core-js@1.2.7",
     "css": "github:systemjs/plugin-css@0.1.36",
-    "material-components-web": "npm:material-components-web@0.27.0",
+    "material-components-web": "npm:material-components-web@0.29.0",
     "text": "github:systemjs/plugin-text@0.0.7",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.4.1"
@@ -111,165 +111,165 @@ System.config({
     "github:jspm/nodelibs-vm@0.1.0": {
       "vm-browserify": "npm:vm-browserify@0.0.4"
     },
-    "npm:@material/button@0.27.0": {
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+    "npm:@material/button@0.29.0": {
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/card@0.27.0": {
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+    "npm:@material/card@0.29.0": {
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/checkbox@0.27.0": {
+    "npm:@material/checkbox@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/selection-control": "npm:@material/selection-control@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/selection-control": "npm:@material/selection-control@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/dialog@0.27.0": {
+    "npm:@material/dialog@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
       "@material/typography": "npm:@material/typography@0.1.1",
       "focus-trap": "npm:focus-trap@2.4.2",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/drawer@0.27.0": {
+    "npm:@material/drawer@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/elevation@0.25.0": {
+    "npm:@material/elevation@0.28.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
       "@material/theme": "npm:@material/theme@0.4.0"
     },
-    "npm:@material/fab@0.27.0": {
+    "npm:@material/fab@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0"
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0"
     },
-    "npm:@material/form-field@0.27.0": {
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/selection-control": "npm:@material/selection-control@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0",
+    "npm:@material/form-field@0.29.0": {
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/selection-control": "npm:@material/selection-control@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/grid-list@0.27.0": {
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+    "npm:@material/grid-list@0.29.0": {
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/icon-toggle@0.27.0": {
+    "npm:@material/icon-toggle@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/linear-progress@0.27.0": {
+    "npm:@material/linear-progress@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/theme": "npm:@material/theme@0.27.0"
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0"
     },
-    "npm:@material/list@0.27.0": {
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+    "npm:@material/list@0.29.0": {
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/menu@0.27.0": {
+    "npm:@material/menu@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/radio@0.27.0": {
+    "npm:@material/radio@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/selection-control": "npm:@material/selection-control@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/selection-control": "npm:@material/selection-control@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/ripple@0.27.0": {
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
+    "npm:@material/ripple@0.29.0": {
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/select@0.27.0": {
+    "npm:@material/select@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/list": "npm:@material/list@0.27.0",
-      "@material/menu": "npm:@material/menu@0.27.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/list": "npm:@material/list@0.29.0",
+      "@material/menu": "npm:@material/menu@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/selection-control@0.27.0": {
-      "@material/ripple": "npm:@material/ripple@0.27.0",
+    "npm:@material/selection-control@0.29.0": {
+      "@material/ripple": "npm:@material/ripple@0.29.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/slider@0.27.0": {
+    "npm:@material/slider@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0"
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0"
     },
-    "npm:@material/snackbar@0.27.0": {
+    "npm:@material/snackbar@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
-    "npm:@material/switch@0.27.0": {
+    "npm:@material/switch@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/theme": "npm:@material/theme@0.27.0"
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/theme": "npm:@material/theme@0.29.0"
     },
-    "npm:@material/tabs@0.27.0": {
+    "npm:@material/tabs@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/textfield@0.27.0": {
+    "npm:@material/textfield@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:@material/toolbar@0.27.0": {
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0"
+    "npm:@material/toolbar@0.29.0": {
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0"
     },
     "npm:amdefine@1.0.1": {
       "fs": "github:jspm/nodelibs-fs@0.1.2",
@@ -284,9 +284,9 @@ System.config({
       "util": "npm:util@0.10.3"
     },
     "npm:aurelia-binding@1.6.0": {
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0",
+      "aurelia-pal": "npm:aurelia-pal@1.5.0",
       "aurelia-task-queue": "npm:aurelia-task-queue@1.2.1"
     },
     "npm:aurelia-bootstrapper@1.0.1": {
@@ -296,108 +296,108 @@ System.config({
       "aurelia-history-browser": "npm:aurelia-history-browser@1.1.0",
       "aurelia-loader-default": "npm:aurelia-loader-default@1.0.3",
       "aurelia-logging-console": "npm:aurelia-logging-console@1.0.0",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0",
-      "aurelia-pal-browser": "npm:aurelia-pal-browser@1.3.0",
-      "aurelia-polyfills": "npm:aurelia-polyfills@1.2.2",
-      "aurelia-router": "npm:aurelia-router@1.4.0",
-      "aurelia-templating": "npm:aurelia-templating@1.6.0",
+      "aurelia-pal": "npm:aurelia-pal@1.5.0",
+      "aurelia-pal-browser": "npm:aurelia-pal-browser@1.4.0",
+      "aurelia-polyfills": "npm:aurelia-polyfills@1.3.0",
+      "aurelia-router": "npm:aurelia-router@1.5.0",
+      "aurelia-templating": "npm:aurelia-templating@1.7.0",
       "aurelia-templating-binding": "npm:aurelia-templating-binding@1.4.0",
       "aurelia-templating-resources": "npm:aurelia-templating-resources@1.5.4",
-      "aurelia-templating-router": "npm:aurelia-templating-router@1.2.0"
+      "aurelia-templating-router": "npm:aurelia-templating-router@1.3.1"
     },
     "npm:aurelia-dependency-injection@1.3.2": {
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
     "npm:aurelia-event-aggregator@1.0.1": {
-      "aurelia-logging": "npm:aurelia-logging@1.3.1"
+      "aurelia-logging": "npm:aurelia-logging@1.4.0"
     },
     "npm:aurelia-framework@1.1.5": {
       "aurelia-binding": "npm:aurelia-binding@1.6.0",
       "aurelia-dependency-injection": "npm:aurelia-dependency-injection@1.3.2",
       "aurelia-loader": "npm:aurelia-loader@1.0.0",
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0",
+      "aurelia-pal": "npm:aurelia-pal@1.5.0",
       "aurelia-path": "npm:aurelia-path@1.1.1",
       "aurelia-task-queue": "npm:aurelia-task-queue@1.2.1",
-      "aurelia-templating": "npm:aurelia-templating@1.6.0"
+      "aurelia-templating": "npm:aurelia-templating@1.7.0"
     },
     "npm:aurelia-history-browser@1.1.0": {
       "aurelia-history": "npm:aurelia-history@1.1.0",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
     "npm:aurelia-loader-default@1.0.3": {
       "aurelia-loader": "npm:aurelia-loader@1.0.0",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
     "npm:aurelia-loader@1.0.0": {
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
       "aurelia-path": "npm:aurelia-path@1.1.1"
     },
     "npm:aurelia-logging-console@1.0.0": {
-      "aurelia-logging": "npm:aurelia-logging@1.3.1"
+      "aurelia-logging": "npm:aurelia-logging@1.4.0"
     },
-    "npm:aurelia-mdc-bridge@0.14.5": {
-      "material-components-web": "npm:material-components-web@0.27.0"
+    "npm:aurelia-mdc-bridge@0.16.0": {
+      "material-components-web": "npm:material-components-web@0.29.0"
     },
     "npm:aurelia-metadata@1.0.3": {
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
-    "npm:aurelia-pal-browser@1.3.0": {
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+    "npm:aurelia-pal-browser@1.4.0": {
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
-    "npm:aurelia-polyfills@1.2.2": {
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+    "npm:aurelia-polyfills@1.3.0": {
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
     "npm:aurelia-route-recognizer@1.1.1": {
       "aurelia-path": "npm:aurelia-path@1.1.1"
     },
-    "npm:aurelia-router@1.4.0": {
+    "npm:aurelia-router@1.5.0": {
       "aurelia-dependency-injection": "npm:aurelia-dependency-injection@1.3.2",
       "aurelia-event-aggregator": "npm:aurelia-event-aggregator@1.0.1",
       "aurelia-history": "npm:aurelia-history@1.1.0",
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
       "aurelia-path": "npm:aurelia-path@1.1.1",
       "aurelia-route-recognizer": "npm:aurelia-route-recognizer@1.1.1"
     },
     "npm:aurelia-task-queue@1.2.1": {
-      "aurelia-pal": "npm:aurelia-pal@1.4.0"
+      "aurelia-pal": "npm:aurelia-pal@1.5.0"
     },
     "npm:aurelia-templating-binding@1.4.0": {
       "aurelia-binding": "npm:aurelia-binding@1.6.0",
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
-      "aurelia-templating": "npm:aurelia-templating@1.6.0"
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
+      "aurelia-templating": "npm:aurelia-templating@1.7.0"
     },
     "npm:aurelia-templating-resources@1.5.4": {
       "aurelia-binding": "npm:aurelia-binding@1.6.0",
       "aurelia-dependency-injection": "npm:aurelia-dependency-injection@1.3.2",
       "aurelia-loader": "npm:aurelia-loader@1.0.0",
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0",
+      "aurelia-pal": "npm:aurelia-pal@1.5.0",
       "aurelia-path": "npm:aurelia-path@1.1.1",
       "aurelia-task-queue": "npm:aurelia-task-queue@1.2.1",
-      "aurelia-templating": "npm:aurelia-templating@1.6.0"
+      "aurelia-templating": "npm:aurelia-templating@1.7.0"
     },
-    "npm:aurelia-templating-router@1.2.0": {
+    "npm:aurelia-templating-router@1.3.1": {
       "aurelia-binding": "npm:aurelia-binding@1.6.0",
       "aurelia-dependency-injection": "npm:aurelia-dependency-injection@1.3.2",
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0",
+      "aurelia-pal": "npm:aurelia-pal@1.5.0",
       "aurelia-path": "npm:aurelia-path@1.1.1",
-      "aurelia-router": "npm:aurelia-router@1.4.0",
-      "aurelia-templating": "npm:aurelia-templating@1.6.0"
+      "aurelia-router": "npm:aurelia-router@1.5.0",
+      "aurelia-templating": "npm:aurelia-templating@1.7.0"
     },
-    "npm:aurelia-templating@1.6.0": {
+    "npm:aurelia-templating@1.7.0": {
       "aurelia-binding": "npm:aurelia-binding@1.6.0",
       "aurelia-dependency-injection": "npm:aurelia-dependency-injection@1.3.2",
       "aurelia-loader": "npm:aurelia-loader@1.0.0",
-      "aurelia-logging": "npm:aurelia-logging@1.3.1",
+      "aurelia-logging": "npm:aurelia-logging@1.4.0",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
-      "aurelia-pal": "npm:aurelia-pal@1.4.0",
+      "aurelia-pal": "npm:aurelia-pal@1.5.0",
       "aurelia-path": "npm:aurelia-path@1.1.1",
       "aurelia-task-queue": "npm:aurelia-task-queue@1.2.1"
     },
@@ -439,7 +439,7 @@ System.config({
       "buffer": "github:jspm/nodelibs-buffer@0.1.1"
     },
     "npm:focus-trap@2.4.2": {
-      "tabbable": "npm:tabbable@1.1.1"
+      "tabbable": "npm:tabbable@1.1.2"
     },
     "npm:graceful-readlink@1.0.1": {
       "fs": "github:jspm/nodelibs-fs@0.1.2"
@@ -450,37 +450,37 @@ System.config({
     "npm:inherits@2.0.1": {
       "util": "github:jspm/nodelibs-util@0.1.0"
     },
-    "npm:material-components-web@0.27.0": {
+    "npm:material-components-web@0.29.0": {
       "@material/animation": "npm:@material/animation@0.25.0",
-      "@material/auto-init": "npm:@material/auto-init@0.25.0",
-      "@material/base": "npm:@material/base@0.24.0",
-      "@material/button": "npm:@material/button@0.27.0",
-      "@material/card": "npm:@material/card@0.27.0",
-      "@material/checkbox": "npm:@material/checkbox@0.27.0",
-      "@material/dialog": "npm:@material/dialog@0.27.0",
-      "@material/drawer": "npm:@material/drawer@0.27.0",
-      "@material/elevation": "npm:@material/elevation@0.25.0",
-      "@material/fab": "npm:@material/fab@0.27.0",
-      "@material/form-field": "npm:@material/form-field@0.27.0",
-      "@material/grid-list": "npm:@material/grid-list@0.27.0",
-      "@material/icon-toggle": "npm:@material/icon-toggle@0.27.0",
+      "@material/auto-init": "npm:@material/auto-init@0.29.0",
+      "@material/base": "npm:@material/base@0.29.0",
+      "@material/button": "npm:@material/button@0.29.0",
+      "@material/card": "npm:@material/card@0.29.0",
+      "@material/checkbox": "npm:@material/checkbox@0.29.0",
+      "@material/dialog": "npm:@material/dialog@0.29.0",
+      "@material/drawer": "npm:@material/drawer@0.29.0",
+      "@material/elevation": "npm:@material/elevation@0.28.0",
+      "@material/fab": "npm:@material/fab@0.29.0",
+      "@material/form-field": "npm:@material/form-field@0.29.0",
+      "@material/grid-list": "npm:@material/grid-list@0.29.0",
+      "@material/icon-toggle": "npm:@material/icon-toggle@0.29.0",
       "@material/layout-grid": "npm:@material/layout-grid@0.24.0",
-      "@material/linear-progress": "npm:@material/linear-progress@0.27.0",
-      "@material/list": "npm:@material/list@0.27.0",
-      "@material/menu": "npm:@material/menu@0.27.0",
-      "@material/radio": "npm:@material/radio@0.27.0",
-      "@material/ripple": "npm:@material/ripple@0.27.0",
-      "@material/rtl": "npm:@material/rtl@0.1.8",
-      "@material/select": "npm:@material/select@0.27.0",
-      "@material/selection-control": "npm:@material/selection-control@0.27.0",
-      "@material/slider": "npm:@material/slider@0.27.0",
-      "@material/snackbar": "npm:@material/snackbar@0.27.0",
-      "@material/switch": "npm:@material/switch@0.27.0",
-      "@material/tabs": "npm:@material/tabs@0.27.0",
-      "@material/textfield": "npm:@material/textfield@0.27.0",
-      "@material/theme": "npm:@material/theme@0.27.0",
-      "@material/toolbar": "npm:@material/toolbar@0.27.0",
-      "@material/typography": "npm:@material/typography@0.3.0",
+      "@material/linear-progress": "npm:@material/linear-progress@0.29.0",
+      "@material/list": "npm:@material/list@0.29.0",
+      "@material/menu": "npm:@material/menu@0.29.0",
+      "@material/radio": "npm:@material/radio@0.29.0",
+      "@material/ripple": "npm:@material/ripple@0.29.0",
+      "@material/rtl": "npm:@material/rtl@0.29.0",
+      "@material/select": "npm:@material/select@0.29.0",
+      "@material/selection-control": "npm:@material/selection-control@0.29.0",
+      "@material/slider": "npm:@material/slider@0.29.0",
+      "@material/snackbar": "npm:@material/snackbar@0.29.0",
+      "@material/switch": "npm:@material/switch@0.29.0",
+      "@material/tabs": "npm:@material/tabs@0.29.0",
+      "@material/textfield": "npm:@material/textfield@0.29.0",
+      "@material/theme": "npm:@material/theme@0.29.0",
+      "@material/toolbar": "npm:@material/toolbar@0.29.0",
+      "@material/typography": "npm:@material/typography@0.28.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
     "npm:os-browserify@0.1.2": {
@@ -543,40 +543,40 @@ System.config({
       "github:systemjs/plugin-text@0.0.7/text.js",
       "npm:@material/animation@0.25.0.js",
       "npm:@material/animation@0.25.0/dist/mdc.animation.js",
-      "npm:@material/checkbox@0.27.0.js",
-      "npm:@material/checkbox@0.27.0/dist/mdc.checkbox.js",
-      "npm:@material/dialog@0.27.0.js",
-      "npm:@material/dialog@0.27.0/dist/mdc.dialog.js",
-      "npm:@material/drawer@0.27.0.js",
-      "npm:@material/drawer@0.27.0/dist/mdc.drawer.js",
-      "npm:@material/form-field@0.27.0.js",
-      "npm:@material/form-field@0.27.0/dist/mdc.formField.js",
-      "npm:@material/grid-list@0.27.0.js",
-      "npm:@material/grid-list@0.27.0/dist/mdc.gridList.js",
-      "npm:@material/icon-toggle@0.27.0.js",
-      "npm:@material/icon-toggle@0.27.0/dist/mdc.iconToggle.js",
-      "npm:@material/linear-progress@0.27.0.js",
-      "npm:@material/linear-progress@0.27.0/dist/mdc.linearProgress.js",
-      "npm:@material/menu@0.27.0.js",
-      "npm:@material/menu@0.27.0/dist/mdc.menu.js",
-      "npm:@material/radio@0.27.0.js",
-      "npm:@material/radio@0.27.0/dist/mdc.radio.js",
-      "npm:@material/ripple@0.27.0.js",
-      "npm:@material/ripple@0.27.0/dist/mdc.ripple.js",
-      "npm:@material/select@0.27.0.js",
-      "npm:@material/select@0.27.0/dist/mdc.select.js",
-      "npm:@material/selection-control@0.27.0.js",
-      "npm:@material/selection-control@0.27.0/dist/mdc.selectionControl.js",
-      "npm:@material/slider@0.27.0.js",
-      "npm:@material/slider@0.27.0/dist/mdc.slider.js",
-      "npm:@material/snackbar@0.27.0.js",
-      "npm:@material/snackbar@0.27.0/dist/mdc.snackbar.js",
-      "npm:@material/tabs@0.27.0.js",
-      "npm:@material/tabs@0.27.0/dist/mdc.tabs.js",
-      "npm:@material/textfield@0.27.0.js",
-      "npm:@material/textfield@0.27.0/dist/mdc.textfield.js",
-      "npm:@material/toolbar@0.27.0.js",
-      "npm:@material/toolbar@0.27.0/dist/mdc.toolbar.js",
+      "npm:@material/checkbox@0.29.0.js",
+      "npm:@material/checkbox@0.29.0/dist/mdc.checkbox.js",
+      "npm:@material/dialog@0.29.0.js",
+      "npm:@material/dialog@0.29.0/dist/mdc.dialog.js",
+      "npm:@material/drawer@0.29.0.js",
+      "npm:@material/drawer@0.29.0/dist/mdc.drawer.js",
+      "npm:@material/form-field@0.29.0.js",
+      "npm:@material/form-field@0.29.0/dist/mdc.formField.js",
+      "npm:@material/grid-list@0.29.0.js",
+      "npm:@material/grid-list@0.29.0/dist/mdc.gridList.js",
+      "npm:@material/icon-toggle@0.29.0.js",
+      "npm:@material/icon-toggle@0.29.0/dist/mdc.iconToggle.js",
+      "npm:@material/linear-progress@0.29.0.js",
+      "npm:@material/linear-progress@0.29.0/dist/mdc.linearProgress.js",
+      "npm:@material/menu@0.29.0.js",
+      "npm:@material/menu@0.29.0/dist/mdc.menu.js",
+      "npm:@material/radio@0.29.0.js",
+      "npm:@material/radio@0.29.0/dist/mdc.radio.js",
+      "npm:@material/ripple@0.29.0.js",
+      "npm:@material/ripple@0.29.0/dist/mdc.ripple.js",
+      "npm:@material/select@0.29.0.js",
+      "npm:@material/select@0.29.0/dist/mdc.select.js",
+      "npm:@material/selection-control@0.29.0.js",
+      "npm:@material/selection-control@0.29.0/dist/mdc.selectionControl.js",
+      "npm:@material/slider@0.29.0.js",
+      "npm:@material/slider@0.29.0/dist/mdc.slider.js",
+      "npm:@material/snackbar@0.29.0.js",
+      "npm:@material/snackbar@0.29.0/dist/mdc.snackbar.js",
+      "npm:@material/tabs@0.29.0.js",
+      "npm:@material/tabs@0.29.0/dist/mdc.tabs.js",
+      "npm:@material/textfield@0.29.0.js",
+      "npm:@material/textfield@0.29.0/dist/mdc.textfield.js",
+      "npm:@material/toolbar@0.29.0.js",
+      "npm:@material/toolbar@0.29.0/dist/mdc.toolbar.js",
       "npm:aurelia-binding@1.6.0.js",
       "npm:aurelia-binding@1.6.0/aurelia-binding.js",
       "npm:aurelia-bootstrapper@1.0.1.js",
@@ -597,107 +597,107 @@ System.config({
       "npm:aurelia-loader@1.0.0/aurelia-loader.js",
       "npm:aurelia-logging-console@1.0.0.js",
       "npm:aurelia-logging-console@1.0.0/aurelia-logging-console.js",
-      "npm:aurelia-logging@1.3.1.js",
-      "npm:aurelia-logging@1.3.1/aurelia-logging.js",
-      "npm:aurelia-mdc-bridge@0.14.5.js",
-      "npm:aurelia-mdc-bridge@0.14.5/button/button.js",
-      "npm:aurelia-mdc-bridge@0.14.5/button/fab/fab.js",
-      "npm:aurelia-mdc-bridge@0.14.5/button/icon-toggle/icon-toggle.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/button/icon-toggle/icon-toggle.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-actions.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-actions.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-horizontal.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-horizontal.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-media.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-media.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-text.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-text.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-title.css!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-title.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card-title.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/card/card.js",
-      "npm:aurelia-mdc-bridge@0.14.5/config-builder.js",
-      "npm:aurelia-mdc-bridge@0.14.5/dialog/dialog.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/dialog/dialog.js",
-      "npm:aurelia-mdc-bridge@0.14.5/dom-helper.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/common.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/header.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/header.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/permanent.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/permanent.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/persistent.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/persistent.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/spacer.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/spacer.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/temporary.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/drawer/temporary.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid-list/grid-list.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid-list/grid-list.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid-list/grid-tile.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid-list/grid-tile.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid/grid-cell.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid/grid-cell.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid/grid.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid/grid.js",
-      "npm:aurelia-mdc-bridge@0.14.5/grid/mdc-grid-inner.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/index.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/checkbox/checkbox.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/checkbox/checkbox.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/radio/radio.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/radio/radio.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/select/select-css.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/select/select.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/select/select.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/slider/slider.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/slider/slider.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/switch/switch.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/switch/switch.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/textfield/textfield.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/inputs/textfield/textfield.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/create-components.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/list-divider.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/list-divider.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/list-item.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/list.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/mdc-list-group-header.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/list/mdc-list-group.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/menu/simple-menu.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/menu/simple-menu.js",
-      "npm:aurelia-mdc-bridge@0.14.5/progress/linear.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/progress/linear.js",
-      "npm:aurelia-mdc-bridge@0.14.5/ripple/ripple.js",
-      "npm:aurelia-mdc-bridge@0.14.5/snackbar/snackbar.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/snackbar/snackbar.js",
-      "npm:aurelia-mdc-bridge@0.14.5/tab/tab-bar-scroller.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/tab/tab-bar-scroller.js",
-      "npm:aurelia-mdc-bridge@0.14.5/tab/tab-bar.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/tab/tab-bar.js",
-      "npm:aurelia-mdc-bridge@0.14.5/tab/tab.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/tab/tab.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar-row.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar-row.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar-section.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar-section.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar-title.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar-title.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar.html!github:systemjs/plugin-text@0.0.7.js",
-      "npm:aurelia-mdc-bridge@0.14.5/toolbar/toolbar.js",
-      "npm:aurelia-mdc-bridge@0.14.5/util.js",
+      "npm:aurelia-logging@1.4.0.js",
+      "npm:aurelia-logging@1.4.0/aurelia-logging.js",
+      "npm:aurelia-mdc-bridge@0.16.0.js",
+      "npm:aurelia-mdc-bridge@0.16.0/button/button.js",
+      "npm:aurelia-mdc-bridge@0.16.0/button/fab/fab.js",
+      "npm:aurelia-mdc-bridge@0.16.0/button/icon-toggle/icon-toggle.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/button/icon-toggle/icon-toggle.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-actions.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-actions.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-horizontal.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-horizontal.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-media.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-media.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-text.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-text.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-title.css!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-title.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card-title.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/card/card.js",
+      "npm:aurelia-mdc-bridge@0.16.0/config-builder.js",
+      "npm:aurelia-mdc-bridge@0.16.0/dialog/dialog.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/dialog/dialog.js",
+      "npm:aurelia-mdc-bridge@0.16.0/dom-helper.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/common.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/header.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/header.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/permanent.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/permanent.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/persistent.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/persistent.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/spacer.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/spacer.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/temporary.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/drawer/temporary.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid-list/grid-list.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid-list/grid-list.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid-list/grid-tile.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid-list/grid-tile.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid/grid-cell.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid/grid-cell.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid/grid.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid/grid.js",
+      "npm:aurelia-mdc-bridge@0.16.0/grid/mdc-grid-inner.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/index.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/checkbox/checkbox.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/checkbox/checkbox.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/radio/radio.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/radio/radio.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/select/select-css.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/select/select.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/select/select.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/slider/slider.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/slider/slider.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/switch/switch.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/switch/switch.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/textfield/textfield.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/inputs/textfield/textfield.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/create-components.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/list-divider.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/list-divider.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/list-item.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/list.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/mdc-list-group-header.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/list/mdc-list-group.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/menu/simple-menu.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/menu/simple-menu.js",
+      "npm:aurelia-mdc-bridge@0.16.0/progress/linear.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/progress/linear.js",
+      "npm:aurelia-mdc-bridge@0.16.0/ripple/ripple.js",
+      "npm:aurelia-mdc-bridge@0.16.0/snackbar/snackbar.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/snackbar/snackbar.js",
+      "npm:aurelia-mdc-bridge@0.16.0/tab/tab-bar-scroller.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/tab/tab-bar-scroller.js",
+      "npm:aurelia-mdc-bridge@0.16.0/tab/tab-bar.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/tab/tab-bar.js",
+      "npm:aurelia-mdc-bridge@0.16.0/tab/tab.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/tab/tab.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar-row.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar-row.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar-section.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar-section.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar-title.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar-title.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar.html!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-mdc-bridge@0.16.0/toolbar/toolbar.js",
+      "npm:aurelia-mdc-bridge@0.16.0/util.js",
       "npm:aurelia-metadata@1.0.3.js",
       "npm:aurelia-metadata@1.0.3/aurelia-metadata.js",
-      "npm:aurelia-pal-browser@1.3.0.js",
-      "npm:aurelia-pal-browser@1.3.0/aurelia-pal-browser.js",
-      "npm:aurelia-pal@1.4.0.js",
-      "npm:aurelia-pal@1.4.0/aurelia-pal.js",
+      "npm:aurelia-pal-browser@1.4.0.js",
+      "npm:aurelia-pal-browser@1.4.0/aurelia-pal-browser.js",
+      "npm:aurelia-pal@1.5.0.js",
+      "npm:aurelia-pal@1.5.0/aurelia-pal.js",
       "npm:aurelia-path@1.1.1.js",
       "npm:aurelia-path@1.1.1/aurelia-path.js",
-      "npm:aurelia-polyfills@1.2.2.js",
-      "npm:aurelia-polyfills@1.2.2/aurelia-polyfills.js",
+      "npm:aurelia-polyfills@1.3.0.js",
+      "npm:aurelia-polyfills@1.3.0/aurelia-polyfills.js",
       "npm:aurelia-route-recognizer@1.1.1.js",
       "npm:aurelia-route-recognizer@1.1.1/aurelia-route-recognizer.js",
-      "npm:aurelia-router@1.4.0.js",
-      "npm:aurelia-router@1.4.0/aurelia-router.js",
+      "npm:aurelia-router@1.5.0.js",
+      "npm:aurelia-router@1.5.0/aurelia-router.js",
       "npm:aurelia-task-queue@1.2.1.js",
       "npm:aurelia-task-queue@1.2.1/aurelia-task-queue.js",
       "npm:aurelia-templating-binding@1.4.0.js",
@@ -737,14 +737,14 @@ System.config({
       "npm:aurelia-templating-resources@1.5.4/throttle-binding-behavior.js",
       "npm:aurelia-templating-resources@1.5.4/update-trigger-binding-behavior.js",
       "npm:aurelia-templating-resources@1.5.4/with.js",
-      "npm:aurelia-templating-router@1.2.0.js",
-      "npm:aurelia-templating-router@1.2.0/aurelia-templating-router.js",
-      "npm:aurelia-templating-router@1.2.0/route-href.js",
-      "npm:aurelia-templating-router@1.2.0/route-loader.js",
-      "npm:aurelia-templating-router@1.2.0/router-view.js",
-      "npm:aurelia-templating@1.6.0.js",
-      "npm:aurelia-templating@1.6.0/aurelia-templating.js",
-      "npm:material-components-web@0.27.0/dist/material-components-web.css!github:systemjs/plugin-text@0.0.7.js",
+      "npm:aurelia-templating-router@1.3.1.js",
+      "npm:aurelia-templating-router@1.3.1/aurelia-templating-router.js",
+      "npm:aurelia-templating-router@1.3.1/route-href.js",
+      "npm:aurelia-templating-router@1.3.1/route-loader.js",
+      "npm:aurelia-templating-router@1.3.1/router-view.js",
+      "npm:aurelia-templating@1.7.0.js",
+      "npm:aurelia-templating@1.7.0/aurelia-templating.js",
+      "npm:material-components-web@0.29.0/dist/material-components-web.css!github:systemjs/plugin-text@0.0.7.js",
       "npm:process@0.11.10.js",
       "npm:process@0.11.10/browser.js"
     ]
