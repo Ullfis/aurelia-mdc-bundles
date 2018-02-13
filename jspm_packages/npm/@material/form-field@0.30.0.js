@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/form-field@0.30.0/dist/mdc.formField");

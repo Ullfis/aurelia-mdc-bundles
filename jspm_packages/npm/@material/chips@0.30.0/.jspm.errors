@@ -1,0 +1,95 @@
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/adapter.js:38:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/adapter.js:38:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/adapter.js:38:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/adapter.js:38:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/constants.js:23:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/constants.js:23:8: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:18:22: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:18:27: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:19:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:19:31: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:20:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:20:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:20:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:51:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:51:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:51:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/foundation.js:51:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/adapter.js:52:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/adapter.js:52:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/adapter.js:52:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/adapter.js:52:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/constants.js:23:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/constants.js:23:8: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:18:22: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:18:27: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:19:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:19:28: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:20:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:20:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:20:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:79:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:79:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:79:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/foundation.js:79:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:18:21: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:18:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:20:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:20:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:20:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:20:31: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:21:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:21:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:21:29: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:21:34: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:22:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:22:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:22:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:81:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip-set/index.js:81:8: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:17:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:17:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:17:42: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:18:48: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:20:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/index.js:20:8: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:18:21: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:18:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:19:25: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:21:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:21:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:21:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:21:28: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:22:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:22:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:22:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:22:31: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:23:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:23:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:23:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:70:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/chips@0.30.0/chip/index.js:70:8: Semi-colon expected

@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/auto-init@0.30.0/index.js");

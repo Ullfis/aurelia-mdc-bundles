@@ -1,0 +1,44 @@
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/adapter.js:192:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/adapter.js:192:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/adapter.js:192:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/adapter.js:192:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/constants.js:49:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/constants.js:49:8: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:17:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:17:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:17:44: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:18:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:18:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:18:25: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:18:30: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:20:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:20:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:20:59: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:21:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:21:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:21:22: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:21:27: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:570:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:570:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:570:8: Unexpected reserved word default
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/foundation.js:570:16: Semi-colon expected
+
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:17:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:17:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:17:21: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:17:26: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:19:23: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:20:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:20:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:20:25: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:20:30: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:21:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:21:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:21:28: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:21:33: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:205:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/slider@0.30.0/index.js:205:8: Semi-colon expected

@@ -1,1 +1,0 @@
-module.exports = require("npm:@material/snackbar@0.29.0/dist/mdc.snackbar");

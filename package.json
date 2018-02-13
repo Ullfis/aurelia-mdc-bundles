@@ -1,6 +1,6 @@
 {
   "name": "aurelia-mdc-bundles",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ullfis/aurelia-mdc-bundles.git"
@@ -20,36 +20,37 @@
     "aurelia-bundler": "^0.7.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
-    "gulp-bump": "^3.0.0",
+    "gulp-bump": "^3.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-string-replace": "^1.0.0",
     "jspm": "^0.16.53",
-    "require-dir": "^0.3.2",
+    "require-dir": "^1.0.0",
     "vinyl-paths": "^2.1.0"
   },
   "jspm": {
     "dependencies": {
       "@material/animation": "npm:@material/animation@^0.25.0",
       "@material/base": "npm:@material/base@^0.29.0",
-      "@material/checkbox": "npm:@material/checkbox@^0.29.0",
-      "@material/dialog": "npm:@material/dialog@^0.29.0",
-      "@material/drawer": "npm:@material/drawer@^0.29.0",
-      "@material/form-field": "npm:@material/form-field@^0.29.0",
-      "@material/grid-list": "npm:@material/grid-list@^0.29.0",
-      "@material/icon-toggle": "npm:@material/icon-toggle@^0.29.0",
-      "@material/linear-progress": "npm:@material/linear-progress@^0.29.0",
-      "@material/menu": "npm:@material/menu@^0.29.0",
-      "@material/radio": "npm:@material/radio@^0.29.0",
-      "@material/ripple": "npm:@material/ripple@^0.29.0",
-      "@material/select": "npm:@material/select@^0.29.0",
-      "@material/selection-control": "npm:@material/selection-control@^0.29.0",
-      "@material/slider": "npm:@material/slider@^0.29.0",
-      "@material/snackbar": "npm:@material/snackbar@^0.29.0",
-      "@material/tabs": "npm:@material/tabs@^0.29.0",
-      "@material/textfield": "npm:@material/textfield@^0.29.0",
-      "@material/toolbar": "npm:@material/toolbar@^0.29.0",
+      "@material/checkbox": "npm:@material/checkbox@^0.30.0",
+      "@material/chips": "npm:@material/chips@^0.30.0",
+      "@material/dialog": "npm:@material/dialog@^0.30.0",
+      "@material/drawer": "npm:@material/drawer@^0.30.0",
+      "@material/form-field": "npm:@material/form-field@^0.30.0",
+      "@material/grid-list": "npm:@material/grid-list@^0.30.0",
+      "@material/icon-toggle": "npm:@material/icon-toggle@^0.30.0",
+      "@material/linear-progress": "npm:@material/linear-progress@^0.30.0",
+      "@material/menu": "npm:@material/menu@^0.30.0",
+      "@material/radio": "npm:@material/radio@^0.30.0",
+      "@material/ripple": "npm:@material/ripple@^0.30.0",
+      "@material/select": "npm:@material/select@^0.30.0",
+      "@material/selection-control": "npm:@material/selection-control@^0.30.0",
+      "@material/slider": "npm:@material/slider@^0.30.0",
+      "@material/snackbar": "npm:@material/snackbar@^0.30.0",
+      "@material/tabs": "npm:@material/tabs@^0.30.0",
+      "@material/textfield": "npm:@material/textfield@^0.30.0",
+      "@material/toolbar": "npm:@material/toolbar@^0.30.0",
       "aurelia-binding": "npm:aurelia-binding@^1.6.0",
-      "aurelia-bootstrapper": "npm:aurelia-bootstrapper@^1.0.1",
+      "aurelia-bootstrapper": "npm:aurelia-bootstrapper@^2.2.0",
       "aurelia-dependency-injection": "npm:aurelia-dependency-injection@^1.3.2",
       "aurelia-event-aggregator": "npm:aurelia-event-aggregator@^1.0.1",
       "aurelia-framework": "npm:aurelia-framework@^1.1.5",
@@ -59,7 +60,7 @@
       "aurelia-loader-default": "npm:aurelia-loader-default@^1.0.3",
       "aurelia-logging": "npm:aurelia-logging@^1.4.0",
       "aurelia-logging-console": "npm:aurelia-logging-console@^1.0.0",
-      "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@^0.16.0",
+      "aurelia-mdc-bridge": "npm:aurelia-mdc-bridge@^0.17.0",
       "aurelia-metadata": "npm:aurelia-metadata@^1.0.3",
       "aurelia-pal": "npm:aurelia-pal@^1.5.0",
       "aurelia-pal-browser": "npm:aurelia-pal-browser@^1.4.0",
@@ -73,7 +74,7 @@
       "aurelia-templating-resources": "npm:aurelia-templating-resources@^1.5.4",
       "aurelia-templating-router": "npm:aurelia-templating-router@^1.3.1",
       "css": "github:systemjs/plugin-css@^0.1.36",
-      "material-components-web": "npm:material-components-web@^0.29.0",
+      "material-components-web": "npm:material-components-web@^0.30.0",
       "text": "github:systemjs/plugin-text@^0.0.7"
     },
     "devDependencies": {
@@ -86,58 +87,61 @@
       "npm:@material/animation@0.25.0": {
         "main": "dist/mdc.animation"
       },
-      "npm:@material/checkbox@0.29.0": {
+      "npm:@material/checkbox@0.30.0": {
         "main": "dist/mdc.checkbox"
       },
-      "npm:@material/dialog@0.29.0": {
+      "npm:@material/chips@0.30.0": {
+        "main": "dist/mdc.chips"
+      },
+      "npm:@material/dialog@0.30.0": {
         "main": "dist/mdc.dialog"
       },
       "npm:@material/base@0.29.0": {
         "main": "dist/mdc.base"
       },
-      "npm:@material/drawer@0.29.0": {
+      "npm:@material/drawer@0.30.0": {
         "main": "dist/mdc.drawer"
       },
-      "npm:@material/form-field@0.29.0": {
+      "npm:@material/form-field@0.30.0": {
         "main": "dist/mdc.formField"
       },
-      "npm:@material/grid-list@0.29.0": {
+      "npm:@material/grid-list@0.30.0": {
         "main": "dist/mdc.gridList"
       },
-      "npm:@material/icon-toggle@0.29.0": {
+      "npm:@material/icon-toggle@0.30.0": {
         "main": "dist/mdc.iconToggle"
       },
-      "npm:@material/linear-progress@0.29.0": {
+      "npm:@material/linear-progress@0.30.0": {
         "main": "dist/mdc.linearProgress"
       },
-      "npm:@material/menu@0.29.0": {
+      "npm:@material/menu@0.30.0": {
         "main": "dist/mdc.menu"
       },
-      "npm:@material/radio@0.29.0": {
+      "npm:@material/radio@0.30.0": {
         "main": "dist/mdc.radio"
       },
-      "npm:@material/ripple@0.29.0": {
+      "npm:@material/ripple@0.30.0": {
         "main": "dist/mdc.ripple"
       },
-      "npm:@material/select@0.29.0": {
+      "npm:@material/select@0.30.0": {
         "main": "dist/mdc.select"
       },
-      "npm:@material/selection-control@0.29.0": {
+      "npm:@material/selection-control@0.30.0": {
         "main": "dist/mdc.selectionControl"
       },
-      "npm:@material/slider@0.29.0": {
+      "npm:@material/slider@0.30.0": {
         "main": "dist/mdc.slider"
       },
-      "npm:@material/snackbar@0.29.0": {
+      "npm:@material/snackbar@0.30.0": {
         "main": "dist/mdc.snackbar"
       },
-      "npm:@material/tabs@0.29.0": {
+      "npm:@material/tabs@0.30.0": {
         "main": "dist/mdc.tabs"
       },
-      "npm:@material/textfield@0.29.0": {
+      "npm:@material/textfield@0.30.0": {
         "main": "dist/mdc.textfield"
       },
-      "npm:@material/toolbar@0.29.0": {
+      "npm:@material/toolbar@0.30.0": {
         "main": "dist/mdc.toolbar"
       }
     }

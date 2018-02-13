@@ -60,22 +60,6 @@
   "github:jspm/nodelibs-util@0.1.0": {
     "util": "npm:util@^0.10.3"
   },
-  "npm:aurelia-bootstrapper@1.0.1": {
-    "aurelia-event-aggregator": "npm:aurelia-event-aggregator@^1.0.0",
-    "aurelia-framework": "npm:aurelia-framework@^1.0.0",
-    "aurelia-history": "npm:aurelia-history@^1.0.0",
-    "aurelia-history-browser": "npm:aurelia-history-browser@^1.0.0",
-    "aurelia-loader-default": "npm:aurelia-loader-default@^1.0.0",
-    "aurelia-logging-console": "npm:aurelia-logging-console@^1.0.0",
-    "aurelia-pal": "npm:aurelia-pal@^1.0.0",
-    "aurelia-pal-browser": "npm:aurelia-pal-browser@^1.0.0",
-    "aurelia-polyfills": "npm:aurelia-polyfills@^1.0.0",
-    "aurelia-router": "npm:aurelia-router@^1.0.1",
-    "aurelia-templating": "npm:aurelia-templating@^1.0.0",
-    "aurelia-templating-binding": "npm:aurelia-templating-binding@^1.0.0",
-    "aurelia-templating-resources": "npm:aurelia-templating-resources@^1.0.0",
-    "aurelia-templating-router": "npm:aurelia-templating-router@^1.0.0"
-  },
   "npm:aurelia-binding@1.6.0": {
     "aurelia-logging": "npm:aurelia-logging@^1.0.0",
     "aurelia-metadata": "npm:aurelia-metadata@^1.0.0",
@@ -183,9 +167,6 @@
   "npm:@material/layout-grid@0.24.0": {},
   "npm:@material/typography@0.1.1": {},
   "npm:@material/theme@0.4.0": {},
-  "npm:focus-trap@2.4.2": {
-    "tabbable": "npm:tabbable@^1.0.3"
-  },
   "github:jspm/nodelibs-http@1.7.1": {
     "Base64": "npm:Base64@~0.2.0",
     "inherits": "npm:inherits@~2.0.1",
@@ -288,205 +269,237 @@
     "aurelia-path": "npm:aurelia-path@^1.0.0",
     "aurelia-task-queue": "npm:aurelia-task-queue@^1.1.0"
   },
-  "npm:@material/grid-list@0.29.0": {
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0"
-  },
-  "npm:@material/selection-control@0.29.0": {
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
-  "npm:@material/checkbox@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/selection-control": "npm:@material/selection-control@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
   "npm:@material/base@0.29.0": {},
-  "npm:@material/snackbar@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0"
-  },
-  "npm:@material/form-field@0.29.0": {
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/selection-control": "npm:@material/selection-control@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
-  "npm:@material/switch@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/theme": "npm:@material/theme@^0.29.0"
-  },
-  "npm:@material/radio@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/selection-control": "npm:@material/selection-control@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
-  "npm:aurelia-mdc-bridge@0.16.0": {
-    "material-components-web": "npm:material-components-web@~0.29.0"
-  },
-  "npm:@material/icon-toggle@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
-  "npm:@material/card@0.29.0": {
-    "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0"
-  },
-  "npm:@material/fab@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0"
-  },
-  "npm:@material/button@0.29.0": {
-    "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0"
-  },
   "npm:@material/typography@0.28.0": {},
-  "npm:@material/list@0.29.0": {
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0"
-  },
-  "npm:@material/toolbar@0.29.0": {
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0"
-  },
-  "npm:@material/rtl@0.29.0": {},
-  "npm:@material/ripple@0.29.0": {
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
-  "npm:@material/theme@0.29.0": {},
   "npm:@material/elevation@0.28.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
     "@material/theme": "npm:@material/theme@^0.4.0"
   },
-  "npm:material-components-web@0.29.0": {
+  "npm:focus-trap@2.4.3": {
+    "tabbable": "npm:tabbable@^1.0.3"
+  },
+  "npm:@material/linear-progress@0.30.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/auto-init": "npm:@material/auto-init@^0.29.0",
     "@material/base": "npm:@material/base@^0.29.0",
-    "@material/button": "npm:@material/button@^0.29.0",
-    "@material/card": "npm:@material/card@^0.29.0",
-    "@material/checkbox": "npm:@material/checkbox@^0.29.0",
-    "@material/dialog": "npm:@material/dialog@^0.29.0",
-    "@material/drawer": "npm:@material/drawer@^0.29.0",
-    "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/fab": "npm:@material/fab@^0.29.0",
-    "@material/form-field": "npm:@material/form-field@^0.29.0",
-    "@material/grid-list": "npm:@material/grid-list@^0.29.0",
-    "@material/icon-toggle": "npm:@material/icon-toggle@^0.29.0",
-    "@material/layout-grid": "npm:@material/layout-grid@^0.24.0",
-    "@material/linear-progress": "npm:@material/linear-progress@^0.29.0",
-    "@material/list": "npm:@material/list@^0.29.0",
-    "@material/menu": "npm:@material/menu@^0.29.0",
-    "@material/radio": "npm:@material/radio@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/select": "npm:@material/select@^0.29.0",
-    "@material/selection-control": "npm:@material/selection-control@^0.29.0",
-    "@material/slider": "npm:@material/slider@^0.29.0",
-    "@material/snackbar": "npm:@material/snackbar@^0.29.0",
-    "@material/switch": "npm:@material/switch@^0.29.0",
-    "@material/tabs": "npm:@material/tabs@^0.29.0",
-    "@material/textfield": "npm:@material/textfield@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "@material/toolbar": "npm:@material/toolbar@^0.29.0",
-    "@material/typography": "npm:@material/typography@^0.28.0",
+    "@material/theme": "npm:@material/theme@^0.30.0"
+  },
+  "npm:@material/snackbar@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0"
+  },
+  "npm:@material/chips@0.30.0": {
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
     "process": "github:jspm/nodelibs-process@^0.1.0"
   },
-  "npm:@material/auto-init@0.29.0": {},
-  "npm:@material/dialog@0.29.0": {
+  "npm:aurelia-bootstrapper@2.2.0": {
+    "aurelia-event-aggregator": "npm:aurelia-event-aggregator@^1.0.0",
+    "aurelia-framework": "npm:aurelia-framework@^1.0.0",
+    "aurelia-history": "npm:aurelia-history@^1.1.0",
+    "aurelia-history-browser": "npm:aurelia-history-browser@^1.1.0",
+    "aurelia-loader-default": "npm:aurelia-loader-default@^1.0.0",
+    "aurelia-logging-console": "npm:aurelia-logging-console@^1.0.0",
+    "aurelia-pal": "npm:aurelia-pal@^1.3.0",
+    "aurelia-pal-browser": "npm:aurelia-pal-browser@^1.0.0",
+    "aurelia-polyfills": "npm:aurelia-polyfills@^1.0.0",
+    "aurelia-router": "npm:aurelia-router@^1.5.0",
+    "aurelia-templating": "npm:aurelia-templating@^1.0.0",
+    "aurelia-templating-binding": "npm:aurelia-templating-binding@^1.0.0",
+    "aurelia-templating-resources": "npm:aurelia-templating-resources@^1.0.0",
+    "aurelia-templating-router": "npm:aurelia-templating-router@^1.0.0"
+  },
+  "npm:@material/ripple@0.30.0": {
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/dialog@0.30.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
     "@material/base": "npm:@material/base@^0.29.0",
     "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
     "@material/typography": "npm:@material/typography@^0.1.1",
     "focus-trap": "npm:focus-trap@^2.3.0",
     "process": "github:jspm/nodelibs-process@^0.1.0"
   },
-  "npm:@material/drawer@0.29.0": {
+  "npm:@material/icon-toggle@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/fab@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/elevation": "npm:@material/elevation@^0.28.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0"
+  },
+  "npm:@material/selection-control@0.30.0": {
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/toolbar@0.30.0": {
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/elevation": "npm:@material/elevation@^0.28.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0"
+  },
+  "npm:@material/tabs@0.30.0": {
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/typography": "npm:@material/typography@^0.28.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/rtl@0.30.0": {},
+  "npm:@material/radio@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/selection-control": "npm:@material/selection-control@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/list@0.30.0": {
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0"
+  },
+  "npm:@material/select@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/list": "npm:@material/list@^0.30.0",
+    "@material/menu": "npm:@material/menu@^0.30.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:material-components-web@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/auto-init": "npm:@material/auto-init@^0.30.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/line-ripple": "npm:@material/line-ripple@^0.30.0",
+    "@material/button": "npm:@material/button@^0.30.0",
+    "@material/card": "npm:@material/card@^0.30.0",
+    "@material/checkbox": "npm:@material/checkbox@^0.30.0",
+    "@material/chips": "npm:@material/chips@^0.30.0",
+    "@material/dialog": "npm:@material/dialog@^0.30.0",
+    "@material/drawer": "npm:@material/drawer@^0.30.0",
+    "@material/elevation": "npm:@material/elevation@^0.28.0",
+    "@material/fab": "npm:@material/fab@^0.30.0",
+    "@material/form-field": "npm:@material/form-field@^0.30.0",
+    "@material/grid-list": "npm:@material/grid-list@^0.30.0",
+    "@material/icon-toggle": "npm:@material/icon-toggle@^0.30.0",
+    "@material/layout-grid": "npm:@material/layout-grid@^0.24.0",
+    "@material/linear-progress": "npm:@material/linear-progress@^0.30.0",
+    "@material/list": "npm:@material/list@^0.30.0",
+    "@material/menu": "npm:@material/menu@^0.30.0",
+    "@material/radio": "npm:@material/radio@^0.30.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/select": "npm:@material/select@^0.30.0",
+    "@material/selection-control": "npm:@material/selection-control@^0.30.0",
+    "@material/slider": "npm:@material/slider@^0.30.0",
+    "@material/snackbar": "npm:@material/snackbar@^0.30.0",
+    "@material/switch": "npm:@material/switch@^0.30.0",
+    "@material/tabs": "npm:@material/tabs@^0.30.0",
+    "@material/textfield": "npm:@material/textfield@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/toolbar": "npm:@material/toolbar@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/auto-init@0.30.0": {},
+  "npm:@material/grid-list@0.30.0": {
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0"
+  },
+  "npm:@material/menu@0.30.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
     "@material/base": "npm:@material/base@^0.29.0",
     "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
     "@material/typography": "npm:@material/typography@^0.28.0"
   },
-  "npm:@material/select@0.29.0": {
+  "npm:@material/switch@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/elevation": "npm:@material/elevation@^0.28.0",
+    "@material/theme": "npm:@material/theme@^0.30.0"
+  },
+  "npm:@material/card@0.30.0": {
+    "@material/elevation": "npm:@material/elevation@^0.28.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0"
+  },
+  "npm:@material/button@0.30.0": {
+    "@material/elevation": "npm:@material/elevation@^0.28.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "@material/typography": "npm:@material/typography@^0.28.0"
+  },
+  "npm:@material/theme@0.30.0": {},
+  "npm:@material/checkbox@0.30.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
     "@material/base": "npm:@material/base@^0.29.0",
-    "@material/list": "npm:@material/list@^0.29.0",
-    "@material/menu": "npm:@material/menu@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/selection-control": "npm:@material/selection-control@^0.30.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:@material/form-field@0.30.0": {
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/selection-control": "npm:@material/selection-control@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
     "@material/typography": "npm:@material/typography@^0.28.0",
     "process": "github:jspm/nodelibs-process@^0.1.0"
   },
-  "npm:@material/menu@0.29.0": {
+  "npm:@material/slider@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0"
+  },
+  "npm:@material/line-ripple@0.30.0": {
+    "@material/animation": "npm:@material/animation@^0.25.0",
+    "@material/base": "npm:@material/base@^0.29.0",
+    "@material/theme": "npm:@material/theme@^0.30.0"
+  },
+  "npm:@material/drawer@0.30.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
     "@material/base": "npm:@material/base@^0.29.0",
     "@material/elevation": "npm:@material/elevation@^0.28.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
     "@material/typography": "npm:@material/typography@^0.28.0"
   },
-  "npm:@material/linear-progress@0.29.0": {
+  "npm:@material/textfield@0.30.0": {
     "@material/animation": "npm:@material/animation@^0.25.0",
     "@material/base": "npm:@material/base@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0"
-  },
-  "npm:@material/slider@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0"
-  },
-  "npm:@material/tabs@0.29.0": {
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/typography": "npm:@material/typography@^0.28.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
-    "process": "github:jspm/nodelibs-process@^0.1.0"
-  },
-  "npm:@material/textfield@0.29.0": {
-    "@material/animation": "npm:@material/animation@^0.25.0",
-    "@material/base": "npm:@material/base@^0.29.0",
-    "@material/ripple": "npm:@material/ripple@^0.29.0",
-    "@material/rtl": "npm:@material/rtl@^0.29.0",
-    "@material/theme": "npm:@material/theme@^0.29.0",
+    "@material/line-ripple": "npm:@material/line-ripple@^0.30.0",
+    "@material/ripple": "npm:@material/ripple@^0.30.0",
+    "@material/rtl": "npm:@material/rtl@^0.30.0",
+    "@material/theme": "npm:@material/theme@^0.30.0",
     "@material/typography": "npm:@material/typography@^0.28.0",
     "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:aurelia-mdc-bridge@0.17.0": {
+    "material-components-web": "npm:material-components-web@~0.30.0"
   }
 }

@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/grid-list@0.30.0/dist/mdc.gridList");

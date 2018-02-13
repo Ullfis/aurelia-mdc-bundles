@@ -1,0 +1,5 @@
+MultipleErrors: /home/eyjolfur/.jspm/packages/npm/@material/selection-control@0.30.0/index.js:19:1: Unexpected reserved word import
+/home/eyjolfur/.jspm/packages/npm/@material/selection-control@0.30.0/index.js:19:8: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/selection-control@0.30.0/index.js:19:25: Semi-colon expected
+/home/eyjolfur/.jspm/packages/npm/@material/selection-control@0.30.0/index.js:40:1: Unexpected reserved word export
+/home/eyjolfur/.jspm/packages/npm/@material/selection-control@0.30.0/index.js:40:8: Semi-colon expected

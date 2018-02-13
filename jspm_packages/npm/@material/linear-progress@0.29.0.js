@@ -1,1 +1,0 @@
-module.exports = require("npm:@material/linear-progress@0.29.0/dist/mdc.linearProgress");

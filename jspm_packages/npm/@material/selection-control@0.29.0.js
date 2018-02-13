@@ -1,1 +1,0 @@
-module.exports = require("npm:@material/selection-control@0.29.0/dist/mdc.selectionControl");

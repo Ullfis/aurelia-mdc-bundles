@@ -1,0 +1,1 @@
+module.exports = require("npm:@material/line-ripple@0.30.0/index.js");
