@@ -12,7 +12,7 @@ System.config({
   paths: {
     "github:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.17.0/jspm_packages/github/*",
     "npm:*": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.17.0/jspm_packages/npm/*",
-    "bundles/bundle.js": "https://cdn.rawgit.com/ullfis/aurelia-mdc-bundles/0.17.0/bundles/bundle.js"
+    "bundles/bundle.js": "https://cdn.jsdelivr.net/gh/ullfis/aurelia-mdc-bundles@0.17.0/bundles/bundle.js"
   },
   meta: {
     "npm:aurelia-mdc-bridge/*": {
